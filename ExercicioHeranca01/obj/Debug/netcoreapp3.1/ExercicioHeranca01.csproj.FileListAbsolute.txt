@@ -1,0 +1,11 @@
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\bin\Debug\netcoreapp3.1\ExercicioHeranca01.exe
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\bin\Debug\netcoreapp3.1\ExercicioHeranca01.deps.json
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\bin\Debug\netcoreapp3.1\ExercicioHeranca01.runtimeconfig.json
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\bin\Debug\netcoreapp3.1\ExercicioHeranca01.runtimeconfig.dev.json
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\bin\Debug\netcoreapp3.1\ExercicioHeranca01.dll
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\bin\Debug\netcoreapp3.1\ExercicioHeranca01.pdb
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\obj\Debug\netcoreapp3.1\ExercicioHeranca01.csprojAssemblyReference.cache
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\obj\Debug\netcoreapp3.1\ExercicioHeranca01.AssemblyInfoInputs.cache
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\obj\Debug\netcoreapp3.1\ExercicioHeranca01.AssemblyInfo.cs
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\obj\Debug\netcoreapp3.1\ExercicioHeranca01.dll
+C:\Users\WASHINGTON\source\repos\ExercicioHeranca01\ExercicioHeranca01\obj\Debug\netcoreapp3.1\ExercicioHeranca01.pdb
